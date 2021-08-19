@@ -1,9 +1,2 @@
-User-agent: Mediapartners-Google
-Disallow: 
-
-User-agent: *
-Disallow: /search
+User-Agent: *
 Allow: /
-
-Sitemap:
-https://tahsintamanna.com/sitemap.xml
